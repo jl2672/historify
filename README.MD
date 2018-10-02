@@ -1,6 +1,7 @@
 # historify
 A Spotify top tracker and playlist creator
-Live: historify.surge.sh
+
+Live: https://historify.surge.sh
 
 Features:
 * See your top tracks and artists and search by different time frames (1 month, 6 months, all time)
