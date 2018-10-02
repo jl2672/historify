@@ -3,6 +3,8 @@ A Spotify top tracker and playlist creator
 
 Live: https://historify.surge.sh
 
+Demo: https://www.youtube.com/watch?v=ffI29jwqq64
+
 Features:
 * See your top tracks and artists and search by different time frames (1 month, 6 months, all time)
 * Create playlists of your top tracks and artists
