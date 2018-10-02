@@ -102,13 +102,22 @@ const Button = styled.button`
   }
 `
 
+const Anchor = styled.a`
+  display: block;
+  text-align: center;
+  color: white;
+  margin-top: 1rem;
+`
+
 const Login = (props) => (
   <BackgroundWrapper>
     <LoginWrapper>
       <Title>Historify</Title>
       <Heading>Uncover your music trends from Spotify.</Heading>
       <Heading>Discover new music and artists based on your preferences.</Heading>
+
       <Button onClick={() => props.authorizeUser()}>LOGIN WITH SPOTIFY ACCOUNT</Button>
+      <Anchor href="https://github.com/jl2672/historify" target="_blank">About</Anchor>
     </LoginWrapper>
   </BackgroundWrapper>
 );
